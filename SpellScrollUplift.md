@@ -83,7 +83,7 @@ You gain the following benefits.
 
 **Inspiring Words.** As a Reaction, if an ally would fail a saving throw, you can roll and add 1d4 to that saving throw. You can use this benefit once. You regain the use of this benefit when you finish a Short or Long Rest.
 
-**Rising Tide.** When you target one or more allies with a spell cast from a Spell Scroll of level 2 or higher, you may give yourself and another ally Heroic Inspiration. You can use this benefit once. You regain the use of this benefit when you finish a Long Rest.
+**Rising Tide.** When you target one or more allies with a spell cast from a Spell Scroll of level 2 or higher, you may give yourself and another ally Heroic Inspiration. You can use this benefit once. You regain the use of this benefit when you finish a Long Rest. 
 
 \column
 
@@ -377,7 +377,7 @@ Combining it with the benefit of Quick Scrivening or the standard crafting rules
 - You can create quick Spell Scrolls from spells on your class list that you dont have normally have prepared incase you need a one off use.
 - You can make proper copies of a Spell Scroll (using normal crafting mechanics) for your allies to use.
 
-This enables some really interesting flexibility options for any class / playstyle.
+This enables some really interesting flexibility options for any class / playstyle. 
 
 ### Magineer
 #### Magical Fluency
@@ -517,12 +517,12 @@ Until you get to level 17, you can only cast this for free once, otherwise you h
 Then you wouldn't be able to cast it using this benefit until level 5.
 
 ##### If I memorize a level 1 spell and use up all my Repetition points, can I still cast the spell with spell slots?
-Yes! You have the spell prepared. Same logic is why you can cast a memorized Cantrip for free (because you know the memorized spell).
+Yes! You have the spell prepared. Same logic is why you can cast a memorized Cantrip for free (because you know the memorized spell). 
 
 ### Luminary
 #### Get What You Give
-##### Does this trigger from a level 1 spell cast from an item?
-Yes! For example, if you have an Enspelled Armor with a level 1 spell, and you take the Magic action to cast the spell, this benefit would be triggered. The reason it is worded "from a Spell Scroll or [...]" is because the intent is to have this be primarily a bonus of using Spell Scrolls, without making it a dead benefit just because you dont have or use them.
+##### Does this trigger from a level 1 spell cast from any item?
+Yes! For example, if you have an Enspelled Armor with a level 1 spell, and you take the Magic action to cast the spell, this benefit would be triggered. The reason it is worded "from a magic item or any level 1 or less spell [...]" is because the intent is to have this be primarily a bonus of using Spell Scrolls, without making it a dead benefit just because you dont have or use them.
 
 #### Inspiring Words
 ##### Who rolls the bonus die?
