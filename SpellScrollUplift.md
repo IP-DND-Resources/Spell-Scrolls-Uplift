@@ -72,7 +72,7 @@ You gain the following benefits.
 
 **Ability Score Increase.** Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
 
-**Memorize.** After successfully using a Spell Scroll of level 3 or less, you can memorize that spell, or replace an already memorized spell. You can memorize up to two spells in this way at a time. You always have your memorized spells prepared. Intelligence, Wisdom, or Charisma is your spellcasting ability for this feat's spells (choose when you select this feat).
+**Memorize.** After successfully using a Spell Scroll of level 3 or less, you can memorize that spell, or replace an already memorized spell. You can memorize up to two spells in this way at a time. You know and always have your memorized spells prepared. Intelligence, Wisdom, or Charisma is your spellcasting ability for this feat's spells (choose when you select this feat).
 
 **Repetition.** You have a number of Repetition Points equal to your Proficiency Bonus. You can expend a number of points equal to the level of a memorized spell (Cantrips require zero points) to cast that spell with out expending a spell slot. You regain all Repetition Points when you finish a Long Rest.
 
