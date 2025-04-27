@@ -129,7 +129,7 @@ You gain one of the Echomancer, Luminary, or Magineer Feats that you don't alrea
 <!-- Use --offset to shift the mask away from page center (can use cm instead of %)
      Use --rotation to set rotation angle in degrees. -->
 
-<div class='artist' style='bottom:50px;right:100px;'>
+<div class='artist' style='bottom:40px;left:100px;'>
 ##### Party of Adventurers Sharing Scroll
 [Dall-E 3](https://raw.githubusercontent.com/IP-DND-Resources/Spell-Scrolls-Uplift/refs/heads/main/img/prompts.txt)
 </div>
@@ -194,17 +194,6 @@ This feature **does not limit** the typical use of Spell Scrolls from your class
 
 \column
 
-:
-:
-:
-:
-:
-:
-:
-:
-:
-:
-
 ##### Spell Source: Magic Initiate (Feat)
 This feat teaches you spells and adds them to your prepared spell list. These spells are considered to be known outside of what is considered *your* "spell list" (even though you select the spell *from* a specific class list).
 
@@ -250,6 +239,9 @@ The level of the spell on the scroll determines the spell's saving throw DC and 
 |7		|Very Rare	|18|+10|
 |8		|Very Rare	|18|+10|
 |9		|Legendary	|19|+11|
+
+#### Can spells cast from Spell Scrolls be countered?
+This is hotly contested, split on the following questions: Do spells cast from Spell Scrolls still require you to perform the Verbal or Somatic components for the spell? Is the reading of a Spell Scroll considered a Verbal or Somatic component. For now, this is best left up to your DM unless I missed some concrete ruling.
 
 {{pageNumber 3}}
 {{footnote PART 3 | FAQ}}
