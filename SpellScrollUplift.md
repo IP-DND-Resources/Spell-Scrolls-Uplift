@@ -1,6 +1,6 @@
 <!-- https://homebrewery.naturalcrit.com/ -->
 
-# Spell Scrolls
+# Scrivener
 Spell scrolls are a largely ignored, underwhelming, and often a trivialized part of D&D. This isn't very suprising given the restrictions in use and narrow situations where they can even be useful, assuming your DM even makes them available. The most restrictive aspect of Spell Scrolls is the requirement for them to be on your class's spell list. Many DMs use a homebrew rule that says "anyone can attempt to use any spell scroll" as a down and dirty way to make them not useless. This homebrew aims to add some proper mechanics that make Spells Scrolls an interesting mechanical choice and part of a character's background. It enables progression by offering exclusive general feats that build off of the origin feat, without locking the best parts behind it. These feats are largely aimed at "gish" style characters, but also offer something for pure martial or spell caster classes too.
 
 ## Origin: Scrivener
@@ -14,7 +14,7 @@ Your hands ache, covered with callouses after the countless hours you've spent c
 
 **Tool Proficiency:** Calligrapher's Supplies
 
-**Equipment:** *Choose* A or B: (A) Calligrapher's Supplies, Map or Scroll Case, Pouch, Ink (4 bottles), Ink Pen, Parchment (20 Sheets), Lamp, Oil (2 Flasks), 5 GP; or (B) 50 GP
+**Equipment:** *Choose* A or B: (A) Calligrapher's Supplies, Map or Scroll Case, Pouch, Ink (4 bottles), Ink Pen, Parchment (10 Sheets), Lamp, Oil (2 Flasks), Traveler's Clothes, 4 GP; or (B) 50 GP
 
 \column
 
@@ -25,7 +25,11 @@ Your hands ache, covered with callouses after the countless hours you've spent c
 
 You gain the following benefits.
 
-**Quick Scrivening.** You can spend 10 minutes to scribe a Spell Scroll. The spell being scribed must be a spell you know or have prepared of level 1 or less; or can be any level 0 spell (Cantrip) from the Cleric, Druid, or Wizard spell list that you don't know. The scribing of this Spell Scroll consumes one sheet of parchment and ink worth 2 GP instead of the normal crafting costs, in addition to any materials required by the spell. This Spell Scroll has no value and is unintelligible to anyone other than you. You can use this Spell Scroll reliably, even if it is not on your class's spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for Spell Scrolls scribed by this feat (choose when you select this feat). You can use this benefit a number of times equal to your Proficiency Bonus. You regain all uses when you finish a Long Rest.
+**Scribe Points.** You have a number of Scribe Points equal to your Proficiency Bonus. You regain your expended Scribe Points when you finish a Long Rest.
+
+**Scrivening.** Drawing from your experience as a Scrivener, you can use and scribe Spell Scrolls from the Scrivener spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for Spell Scrolls scribed by this feat (choose when you select this feat).
+
+**Quick Scribe.** You can scribe a Spell Scroll in 10 minutes by spending a number of a Scribe Points equal to 1 plus the level of the spell. Instead of the normal crafting costs, the scribing of this Spell Scroll consumes one sheet of parchment and ink worth a total value of 5 GP plus 5 GP for each level of the spell, in addition to any materials required by the spell. This Spell Scroll has no value and is unintelligible to anyone other than you. When the total number of scrolls created with this benefit exceeds your spellcasting ability modifier chosen for this feat, the magic from one of the other scrolls randomly fades away and disappears.
 
 **Organized.** When you take the Magic Action to use a Spell Scroll, as a part of that action you can retrieve a Spell Scroll from a Pouch or a Map or Scroll Case. A Pouch is able to hold up to a total of 6 Spell Scrolls and a Map or Scroll Case can hold up to 5 Spell Scolls.
 
@@ -56,9 +60,9 @@ You gain the following benefits.
 
 **Ability Score Increase.** Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
 
-**Magical Fluency.** You can use any Spell Scroll. Spells cast using this benefit that are not on your class's spell list use Intelligence, Wisdom, or Charisma as your spellcasting ability (choose when you select this feat).
+**Magical Fluency.** You can use any Spell Scroll. Spells cast using this benefit that are not on your spell list use Intelligence, Wisdom, or Charisma as your spellcasting ability (choose when you select this feat).
 
-**Keen Execution.** When you can take the Dash or Disengage action, you can take a Magic action as a Bonus Action this turn to cast a Cantrip that you know or use a Spell Scroll of Level 1 or less. You can only use this benefit once per turn.
+**Keen Execution.** When you take the Dash or Disengage action, you can take a Magic action as a Bonus Action this turn to cast a Cantrip that you know or use a Spell Scroll of Level 1 or less. You can only use this benefit once per turn.
 
 ### Echomancer
 
@@ -93,8 +97,6 @@ You gain the following benefits.
 
 You gain one of the the Echomancer, Luminary, or Magineer Feats (choose when you select this feat). You also gain the following benefits.
 
-**Quick Scrivening.** The scribed spell must be a spell you know of level 2 or less; or of level 1 or less from the Cleric, Druid, or Wizard spell list that you don't know.
-
 **Precision.** Spells you cast from Spell Scrolls use your Spell Save DC and Spell Attack bonus instead of the standard values for Spell Scrolls, if it is higher.
 
 ### Master Scrivener
@@ -102,12 +104,10 @@ You gain one of the the Echomancer, Luminary, or Magineer Feats (choose when you
 
 You gain one of the Echomancer, Luminary, or Magineer Feats that you don't already have (choose when you select this feat). You also gain the following benefits.
 
-**Quick Scrivening.** The scribed spell must be a spell you know of level 3 or less; or of level 2 or less from the Cleric, Druid, or Wizard spell list that you don't know.
-
-**Arcane Forgery.** When you scribe a Spell Scroll, you do not need to know or have the spell prepared if it is on your class's spell list; or if you posses a Spell Scroll with the desired spell inscribed on it. If using a Spell Scroll, you must remain in possesion of that Spell Scroll for the entire duration of the crafting.
+**Arcane Forgery.** When you scribe a Spell Scroll, you do not need to know or have the spell prepared if it is on your spell list; or if you posses a Spell Scroll with the desired spell inscribed on it. If using a Spell Scroll, you must remain in possesion of that Spell Scroll for the entire duration of the crafting.
 
 {{imageMaskCorner22,--offsetX:40%,--offsetY:-43%,--rotation:90
-  ![Spell Scroll](https://raw.githubusercontent.com/IP-DND-Resources/Spell-Scrolls-Uplift/refs/heads/main/img/WomanWithScrollVest.png){height:550px,bottom:-65px,right:-75px,transform:scaleX(-1)}
+  ![Spell Scroll](https://raw.githubusercontent.com/IP-DND-Resources/Spell-Scrolls-Uplift/refs/heads/main/img/WomanWithScrollVest.png){height:550px,bottom:-66px,right:-75px,transform:scaleX(-1)}
 }}
 <!-- Use --offsetX to shift the mask left or right (can use cm instead of %)
      Use --offsetY to shift the mask up or down
@@ -134,25 +134,47 @@ You gain one of the Echomancer, Luminary, or Magineer Feats that you don't alrea
 [Dall-E 3](https://raw.githubusercontent.com/IP-DND-Resources/Spell-Scrolls-Uplift/refs/heads/main/img/prompts.txt)
 </div>
 
-:
-:
-:
-:
-:
-:
-:
-:
-:
-:
-:
-:
-:
-:
-:
-:
-:
-:
-:
+## Scrivener Spell List
+### Cantrips
+|Spell|School|Special|
+|:---|:---|:---:|
+|Blade Ward|Abjuration|C|
+|Light|Evocation|-|
+|Message|Transmutation|-|
+|Mending|Transmutation|-|
+|Poison Spray|Necromancy|-|
+|Produce Flame|Conjuration|-|
+|Resistance|Abjuration|C|
+|Shocking Grasp|Evocation|-|
+|Spare the Dying|Necromancy|-|
+
+### Level 1
+|Spell|School|Special|
+|:---|:---|:---:|
+|Detect Poison and Disease|Divination|C|
+|Feather Fall|Transmutation|-|
+|Fog Cloud|Conjuration|C|
+|Ice Knife|Conjuration|-|
+|Jump|Transmutation|-|
+|Longstrider|Transmutation|-|
+
+### Level 2
+|Spell|School|Special|
+|:---|:---|:---:|
+|Enlarge/Reduce|Transmutation|C|
+|Gentle Repose|Necromancy|-|
+|Gust of Wind|Evocation|C|
+|Invisibility|Illusion|C|
+|Lesser Restoration|Abjuration|-|
+|Locate Object|Divination|C|
+
+### Level 3
+|Spell|School|Special|
+|:---|:---|:---:|
+|Create Food And Water|Conjuration|-|
+|Haste|Transmutation|C|
+|Sending|Divination|-|
+|Water Breathing|Transmutation|-|
 
 ## FAQ
 
@@ -169,65 +191,43 @@ This does extend to "Subclass" in the case of Arcane Trickster or Eldritch Knigh
 
 This feature **does not limit** the typical use of Spell Scrolls from your class, subclass, or multiclass spell list using the normal casting rules.
 
+
+\column
+
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+
 ##### Spell Source: Magic Initiate (Feat)
-This feat teaches you spells and adds them to your prepared spell list. These spells are considered to be known outside of what is considered *your* "class list" (even though you select the spell *from* a specific class list).
+This feat teaches you spells and adds them to your prepared spell list. These spells are considered to be known outside of what is considered *your* "spell list" (even though you select the spell *from* a specific class list).
 
 [Discussion Thread](https://rpg.stackexchange.com/questions/132036/does-learning-a-spell-through-the-magic-initiate-feat-allow-me-to-cast-that-spel)
 
-**RAW:** This feature **does limit** the typical use of Spell Scrolls, even if prepared via a feat.
+**RAW:** This feat **doesn't** allow the use of Spell Scrolls.
 
 
 ##### Spell Source: Racial/Species
 Similar to Magic Initiate (Feat), the spell learned in this manner, even though it is *prepared*, is not specifically associated with a spell list *you* have.
 
-This feature **does limit** the typical use of Spell Scrolls, even if available from a racial or species feature..
+**RAW:** This feature **doesn't** allow the use of Spell Scrolls.
 
 ##### Spell Source: Subclass feature
-Various Subclass', such as Celestial Patron (Warlock), or Fey Wanderer (Ranger), give you access to additional spells via their features. While you do have these spells *prepared*, unless they are explicitly stated as being considered part of the class's Spell List, they are not.
-
-This feature **does limit** the the use of Spell Scrolls, even if prepared via another source.
-
-\column
-
-
-:
-:
-:
-:
-:
-:
-:
-:
-:
-:
-:
-:
-:
-:
-:
-:
-:
-:
-:
-:
-:
-:
-:
-:
-:
-:
-:
-
-#### When I cast a Cantrip Spell Scroll, do I benefit from level scaling?
-Yes, When casting a Cantrip (Level 0) from a Spell Scroll, the Cantrip scales appropriately with your character level.
-
-For example, If you are character level 5, a Spell Scroll insribed with Chill Touch, would roll 2d10 for damage.
+Various Subclass', such as Celestial Patron (Warlock), or Fey Wanderer (Ranger), give you access to additional spells via their features. 2024 updated the rules around what is considered to be on your class spell list.
 
 {{note
-PHB (2024) Pg 233; Cantrips
+PHB (2024) Pg 236; Class Spell Lists
 
-If the scribed spell is a cantrip, the version on the scroll works as if the caster were your level.
+[...] Some features add a spell to a character’s spell list [...].
 }}
+
+This feature **does not limit** the the use of Spell Scrolls.
 
 #### What Spell Save DC and Spell Attack should I use?
 **RAW:** All Spell Scrolls use a static Spell Save DC and Spell Attack Bonus
@@ -267,12 +267,16 @@ The level of the spell on the scroll determines the spell's saving throw DC and 
 [Dall-E 3](https://raw.githubusercontent.com/IP-DND-Resources/Spell-Scrolls-Uplift/refs/heads/main/img/prompts.txt)
 </div>
 
-:
-:
-:
-:
-:
+#### When I cast a Cantrip Spell Scroll, do I benefit from level scaling?
+Yes, When casting a Cantrip (Level 0) from a Spell Scroll, the Cantrip scales appropriately with your character level.
 
+For example, If you are character level 5, a Spell Scroll insribed with Chill Touch, would roll 2d10 for damage.
+
+{{note
+PHB (2024) Pg 233; Cantrips
+
+If the scribed spell is a cantrip, the version on the scroll works as if the caster were your level.
+}}
 
 
 #### How is a Spell with Concentration or Ritual handled?
@@ -282,7 +286,7 @@ Pretty much the same as a spell being cast with a spell slot, with the scroll be
 When a spell with concentration is cast from a Spell Scroll, it functions identially as if the spell was cast by any other means. The caster must maintain Concentration, or the spell effect ends early. The Spell Scroll is consumed once the spell casting is complete.
 
 ##### Ritual
-When a spell with the Ritual tag is cast from a Spell Scroll, it functions similarly as if the spell was cast by any other means. The caster must maintain concentration for the duration of the casting. Similarly to the loss of a spell slot, the Spell Scroll is **not** consumed until the casting is complete. Spell Scrolls are consumed either at the completion of casting or the failure to pass a required Intelligence (Arcana) check.
+When a spell with the Ritual tag is cast from a Spell Scroll, it functions similarly as if the spell was cast by any other means. The caster must maintain concentration for the duration of the casting. Similarly to the loss of a spell slot, the Spell Scroll is **not** consumed until the casting is complete. Spell Scrolls are consumed either at the completion of casting or the failure to pass a required ability check.
 
 {{note
 DMG (2024) Pg 305; Spell Scroll
@@ -293,43 +297,26 @@ Once the spell is cast, the scroll crumbles to dust. If the casting is interrupt
 Spell Scrolls can be effectively thought of as a physical spell slot.
 
 ### Apprentence Scrivener
-#### Quick Scrivening
+#### Scrivening
+##### Can I use the spells on this list with spell slots I have from other features?
+No, you cannot. These spells are not able to be prepared, only scribed to a Spell Scroll. They are organized in a "spell list" to better align to existing rules and simplify wording.
+
+#### Quick Scribe
 ##### How long do these Scrolls last?
-They have no specific expiration. You can store up a collection of them if you wish. At first this seems unbalanced, but consider the investment it takes to enable this capability. The maximum level of which can be created is only level 1 limited to spells you already have access to, or Cantrips, which typically have unlimited uses. To gain access to higher levels requires investments into additional feats.
+They have no specific expiration. You can store up a limited collection of them if you wish, up to your spell casting modifier that you chose with the feat. Any more than that, you randomly lose one.
 
-##### If a bottle of ink is worth 10 GP, is the whole bottle consumed for one scroll?
-No, you only consume 2 GP worth of that ink. 1 bottle of ink (10 GP) has enough ink for 5 scrolls scribed this way.
+##### If a bottle of ink is worth 10 GP, is the whole bottle consumed for one Cantrip scroll?
+No, you only consume 5 GP worth of that ink. 1 bottle of ink (10 GP) has enough ink for 2 Cantrip scrolls scribed this way.
 
-##### Can I scribe any spell (up to the specified level) from the Cleric, Driud, or Wizard spell list?
-Yes, the intent is to give you access to the lowest level spells of these classes.
+##### How many Scribe Points are required to scribe a Cantrip?
+1 Point. Cantips are level 0, so they would require 1 plus 0 points.
 
-\column
+##### How do I randomly decide the scroll that I lose when I have too many?
+Typically you can just do a dice roll, and assign 1 face to each scroll. if there are too many faces, they are just a reroll. Even/Odd is prefect when you can only have a max of 2.
 
-:
-:
-:
-:
-:
-:
-:
-:
-:
-:
-:
-:
-:
 
 ##### Can I scribe a spell learned by a racial feat or some other source?
-Yes, the requirement is that you know the Cantrip or have the spell prepared. Older books don't specifically say "You always have this spell prepared", but if we look at the language in the updated PHB for 2024:
-
-{{note
-PHB (2024) Pg 197; Tiefling Traits; Fiendish Legacy
-
-[...] When you reach character levels 3 and 5 [...] You always have that spell prepared. [...] You can also cast the spell using any spell slots you have [...]
-}}
-
-##### Do I have to choose one spell list from the options?
-No, all three (Cleric, Druid, Wizard) are available to you.
+No, the requirement is that the spell is on your "spell list".
 
 #### Organized
 ##### Why does this mention that you can retreive the scroll as part of the Magic action, can't you do that anyway?
@@ -341,13 +328,9 @@ PHB (2024) Pg 24; Interacting with Things.
 You can interact with one object or feature of the environment for free, during either your move or action. [...] If you want to interact with a second object, you need to take the Utilize action. [...]
 }}
 
-This is typically interpreted to mean that if something is freely accessible (in a pouch or on your person) you can access it as part of the action you take to use it (Drink a potion, attack with a weapon). If it is not freely accessible (in a backpack) you need to take the Utilize action to access it.
+This is typically interpreted to mean that if something is freely accessible (in a pouch or on your person) you can access it as part of the action you take to use it (Drink a potion, attack with a weapon). If it is not freely accessible (in a backpack) you need to take the Utilize action to access it. If you combine multiple benefits and features and have to opportunity to retreive and use two Spell Scrolls in one turn, RAW would suggest that you cannot access the second scroll unless it was already in your hand without a utilize action.
 
-If you combine multiple benefits and features and have to opportunity to retreive and use two Spell Scrolls in one turn, RAW would suggest that you cannot access the second scroll unless it was already in your hand without a utilize action.
-
-This benefit effectively turns pouches and scroll cases into pseudo-quivers for scrolls, allowing you to quickly access any scroll within them. Quantity limits are established to ensure this isn't abused. If your DM allows you to equip multiple pouches or scroll cases, that is their choice.
-
-This is added mostly to give some clarity to players and DMs on how this is all intended to work.
+This benefit effectively turns pouches and scroll cases into pseudo-quivers for scrolls, allowing you to quickly access any scroll within them. Quantity limits are established to ensure this isn't abused. If your DM allows you to equip multiple pouches or scroll cases, that is their choice. This is added mostly to give some clarity to players and DMs on how this is all intended to work.
 
 {{pageNumber 4}}
 {{footnote PART 3 | FAQ}}
@@ -361,26 +344,28 @@ A Pouch has 1/5th cubic feet (345 inches cubed) of space. A 2" cylinder that is 
 ##### Do I also get the Ability Score Increase from the chosen feat?
 Yes.
 
-#### Quick Scrivening
-##### Does this replace the wording in the Origin Feat for hte same benefit?
-Yes. It is worded this way to because of the prerequisite placed of needing to have the origin feat ensuring you have this benefit. It is designed to be a bonus for investing a second feat (and third with master Scrivener) without gating the underlying feats behind it.
-
 ### Master Scrivener
 #### Arcane Forgery
-##### Can I combine this benefit with Quick Scrivening to make a copy of a Spell Scroll I have?
-As long as it is level 3 or less, yes! The intent is to reward a heavy investment into the Scrivener origin. You have now spent your Origin feat and 2 ASI feats to get here. That gives up a lot of potential offensive and defensive capabilities, so the idea is to reward it with incredible flexibility.
+##### Can I combine this benefit with Quick Scribe to make a copy of a Spell Scroll I have?
+As long as it is on your spell list, yes! The intent is to reward a heavy investment into the Scrivener origin. You have now spent your Origin feat and 2 ASI feats to get here. That gives up a lot of potential offensive and defensive capabilities, so the idea is to reward it with flexibility.
 
 ##### How is this considered good?
-Combining it with the benefit of Quick Scrivening or the standard crafting rules, you can do the following:
+Combining it with the benefit of Quick Scribe or the standard crafting rules, you can do the following:
 
-- Assuming you took Magineer at some point, you can have a handful of level 3 or less spell scrolls that you can make quick copies of each day for an arscenal of flexible scroll options at your disposal.
-- You can create quick Spell Scrolls from spells on your class list that you dont have normally have prepared incase you need a one off use.
+- Assuming you took Magineer at some point, you can have a collection of spell scrolls that you can make quick copies of each day.
+- You can quickly create Spell Scrolls from spells on your spell list that you dont have normally have prepared incase you need a one off use.
 - You can make proper copies of a Spell Scroll (using normal crafting mechanics) for your allies to use.
 
 This enables some really interesting flexibility options for any class / playstyle. 
 
 ### Magineer
 #### Magical Fluency
+##### If I have Spellcasting (Sorcerer) and I also take this feat, what ability check do I make when using a Spell Scroll?
+
+If the spell is on the Sorcerer class list: Charisma. If it is not: The spellcasting ability selected when you chose this feat. (Probably also Charisma, right?)
+
+\column
+
 ##### Do I still need to pass an ability check when using Spell Scrolls via this benefit?
 {{note
 DMG (2024) Pg 305; Spell Scroll
@@ -402,9 +387,7 @@ PHB (2024) Pg 137; Use Magic Device (Scrolls)
 You can use any Spell Scroll, [...] If the spell is a cantrip or a level 1 spell, you can cast it reliably. If the scroll contains a higher-level spell, you must first succeed on an Intelligence (Arcana) check (DC 10 plus the spell's level). On a successful check, you cast the spell from the scroll. On a failed check, the scroll disintegrates.
 }}
 
-##### If I have Spellcasting (Sorcerer) and I also take this feat, what ability check do I make when using a Spell Scroll?
 
-If the spell is on the Sorcerer class list: Charisma. If it is not: The spellcasting ability selected when you chose this feat. (Probably also Charisma, right?)
 
 {{imageMaskCorner23,--offsetX:45%,--offsetY:-52%,--rotation:0
   ![Spell Scroll](https://raw.githubusercontent.com/IP-DND-Resources/Spell-Scrolls-Uplift/refs/heads/main/img/ScrollBeingCast.png){opacity:60%,height:550px,bottom:-35px,right:-75px,transform:scaleX(-1)}
